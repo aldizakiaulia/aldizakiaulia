@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aldizakiaulia&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 🔥 About Me
@@ -9,13 +9,13 @@
 - ⚡ **Fun fact:** I am superman  
 - 🎓 **Currently studying at:** University of North Sumatera  
 - 📬 **How to reach me:**  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aldizakii/profilecard/?igsh=MXhqMHo3cHd0YzBldw==)  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aldizakii/)  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldizakiaulia&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
